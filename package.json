@@ -1,0 +1,13 @@
+{
+  "name": "QuizCenter",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies":{
+    "knockout":">=3.3.0"
+  },
+  "devDependencies": {
+    "browserify": ">=5.11.0",
+    "watchify": ">=3.2.2"
+  },
+  "main": "index"
+}
