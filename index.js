@@ -1,3 +1,4 @@
-exports.create_reactive_api=require('./lib/reactive-api.js')
+exports.reactiveApi=require('./lib/reactive-api.js')
+exports.createReactiveApi=exports.reactiveApi.createReactiveApi
 exports.ReactiveConnection = require('./lib/ReactiveConnection.js')
-exports.TimeSync = require('./lib/TimeSync.js')
+exports.TimeSync = require('./../reactiveobserver-timesync/index.js')
