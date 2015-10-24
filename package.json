@@ -7,6 +7,10 @@
     "email" : "m8@em8.pl",
     "url" : "http://realtime.guru/"
   },
+  "repository" : {
+    "type" : "git",
+    "url" : "ReactiveObserver/reactiveobserver-client"
+  },
   "dependencies":{
     "sockjs-client": ">=1.0.3",
     "es6-promises": ">=1.0.0"
